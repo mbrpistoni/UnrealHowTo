@@ -1,6 +1,6 @@
 # Welcome to Mbrpistoni personal Unreal documentation
 
-Here I will be adding explanations for how some systems work in Unreal (mostly AI related) and some "gotchas" and fixed for bugs. You might end up here through UDN posts.
+Here I will be adding explanations for how some systems work in Unreal (mostly AI related) and some "gotchas" and fixes for bugs I find along the way. You might end up here through UDN posts.
 
 ## Project layout
 
