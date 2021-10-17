@@ -1,17 +1,11 @@
-# Welcome to MkDocs
+# Welcome to Mbrpistoni personal Unreal documentation
 
-For full documentation visit [mkdocs.org](https://www.mkdocs.org).
-
-## Commands
-
-* `mkdocs new [dir-name]` - Create a new project.
-* `mkdocs serve` - Start the live-reloading docs server.
-* `mkdocs build` - Build the documentation site.
-* `mkdocs -h` - Print help message and exit.
+Here I will be adding explanations for how some systems work in Unreal (mostly AI related) and some "gotchas" and fixed for bugs. You might end up here through UDN posts.
 
 ## Project layout
 
-    mkdocs.yml                      # The configuration file.
+    mkdocs.yml                      # The configuration file in case you want to download this documentation and build a local site with MKDocs (https://www.mkdocs.org/)
     docs/
-        index.md                    # The documentation homepage.
-        FromNavVolumesToNavData.md  # Other markdown pages, images and other files.
+        index.md                    # The documentation homepage (MKDir file needed)
+        Readme.mkdocs               # This very same document
+        FromNavVolumesToNavData.md  # Explanation for what happens in the engine from the moment a Nav volume is streamed in within a sub-level to the moment when it's streamed out
